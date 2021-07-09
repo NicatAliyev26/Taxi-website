@@ -1,0 +1,215 @@
+@media only screen and (max-width: 400px) {
+    .nav {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 120px;
+
+        .btn-img {
+            display: flex;
+            flex-direction: column;
+
+            #mainbox {
+                display: flex;
+                flex-direction: row-reverse;
+                font-size: 24px;
+                cursor: pointer;
+                margin-left: auto;
+                margin-top: 20px;
+                margin-right: 20px;
+                transition: all .6s;
+            }
+
+            .picture {
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+
+                img {
+                    width: 150px;
+                    height: 40px;
+                    margin-top: 20px;
+                }
+            }
+        }
+
+
+        .sidemenu {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            height: 500px;
+            width: 0px;
+            background-color: #222;
+            z-index: 1;
+            padding-top: 100px;
+            overflow-x: hidden;
+            transition: all .5s;
+
+            a {
+                padding: 8px 8px 8px 64px;
+                text-decoration: none;
+                font-size: 20px;
+                color: #999;
+                display: block;
+
+                &:hover {
+                    color: white;
+                }
+            }
+
+            .closebtn {
+                position: absolute;
+                top: 0px;
+                right: 25px;
+                font-size: 36px;
+                margin-left: 32px;
+                color: #fff;
+                cursor: pointer;
+            }
+        }
+
+    }
+}
+
+
+@media only screen and (min-width: 400px) {
+    .nav {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100px;
+
+        .btn-img {
+            #mainbox {
+                display: flex;
+                flex-direction: row-reverse;
+                font-size: 24px;
+                cursor: pointer;
+                margin-left: auto;
+                margin-top: 20px;
+                margin-right: 20px;
+                transition: all .6s;
+            }
+
+            .picture {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                img {
+                    width: 150px;
+                    height: 40px;
+                }
+            }
+        }
+
+
+        .sidemenu {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            height: 100%;
+            width: 0%;
+            background-color: #222;
+            z-index: 1;
+            padding-top: 100px;
+            overflow-x: hidden;
+            transition: all .5s;
+
+            a {
+                padding: 8px 8px 8px 64px;
+                text-decoration: none;
+                font-size: 20px;
+                color: #999;
+                display: block;
+
+                &:hover {
+                    color: white;
+                }
+            }
+
+            .closebtn {
+                position: absolute;
+                top: 0px;
+                right: 25px;
+                font-size: 36px;
+                margin-left: 32px;
+                color: #fff;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    .nav {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 60px;
+
+        .btn-img {
+            display: flex;
+            flex-direction: row-reverse;
+
+            #mainbox {
+                font-size: 24px;
+                cursor: pointer;
+                margin-left: auto;
+                margin-top: 10px;
+                margin-right: 20px;
+                transition: all .6s;
+            }
+
+            .picture {
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                margin-top: 10px;
+
+                img {
+                    width: 150px;
+                    height: 40px;
+                }
+            }
+        }
+
+
+        .sidemenu {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            height: 100%;
+            width: 0%;
+            background-color: #222;
+            z-index: 1;
+            padding-top: 100px;
+            overflow-x: hidden;
+            transition: all .5s;
+
+            a {
+                padding: 8px 8px 8px 64px;
+                text-decoration: none;
+                font-size: 20px;
+                color: #999;
+                display: block;
+
+                &:hover {
+                    color: white;
+                }
+            }
+
+            .closebtn {
+                position: absolute;
+                top: 0px;
+                right: 25px;
+                font-size: 36px;
+                margin-left: 32px;
+                color: #fff;
+                cursor: pointer;
+            }
+        }
+    }
+}

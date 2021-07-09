@@ -1,0 +1,226 @@
+@media only screen and (max-width: 400px) {
+    .card-2{
+        width: 100%;
+        height: 1300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-image: linear-gradient(
+            0deg
+            , rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../Image/bg-car.jpeg);
+        background-position: 50% 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        h6,h3,p{
+            width: 85%;
+            text-align: center;
+            color: #fff;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 700;
+        }
+
+        .text{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .icon{
+                width: 520%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 50px;
+          .words{
+              width: 7%;
+            h6{
+                text-align: left;
+                margin-left: 10px;
+                color: #F7C119;
+                width: 500px;
+            }
+          }
+                
+                .round{
+                    width: 50px;
+                    height: 50px;
+                    background-color: #F7C119;
+                    border-radius: 50%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    
+                    .icons{
+                        font-size: 20px;
+                        color: #000;
+                    }
+                }
+            }
+
+            p{
+                width: 45%;
+                text-align: initial;
+                font-size: 14px;
+                margin-top: 10px;
+                color: #fff;
+                font-family: 'Open Sans', sans-serif;
+                font-weight: normal;
+                font-style: italic;
+            }
+        }
+    }
+}
+
+
+@media only screen and (min-width: 400px){
+    .card-2{
+        width: 100%;
+        height: 1300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-image: linear-gradient(
+            0deg
+            , rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../Image/bg-car.jpeg);
+        background-position: 50% 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        h6,h3,p{
+            width: 85%;
+            text-align: center;
+            color: #fff;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 700;
+        }
+
+        .text{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .icon{
+                width: 520%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-top: 50px;
+          .words{
+              width: 7%;
+            h6{
+                text-align: left;
+                margin-left: 10px;
+                color: #F7C119;
+                width: 500px;
+            }
+          }
+                
+                .round{
+                    width: 50px;
+                    height: 50px;
+                    background-color: #F7C119;
+                    border-radius: 50%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    
+                    .icons{
+                        font-size: 20px;
+                        color: #000;
+                    }
+                }
+            }
+
+            p{
+                width: 45%;
+                text-align: initial;
+                font-size: 14px;
+                margin-top: 10px;
+                color: #fff;
+                font-family: 'Open Sans', sans-serif;
+                font-weight: normal;
+                font-style: italic;
+            }
+        }
+    }
+}
+
+
+@media only screen and (min-width: 992px){
+    .card-2{
+        width: 100%;
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-image: linear-gradient(
+            0deg
+            , rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../Image/bg-car.jpeg);
+        background-position: 50% 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        h6,h3,p{
+            width: 85%;
+            text-align: center;
+            color: #fff;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 700;
+        }
+
+        .boxfirst,.boxsecond{
+            display: flex;
+
+            .text{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                .icon{
+                    width: 520%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: 50px;
+              .words{
+                  width: 7%;
+                h6{
+                    text-align: left;
+                    margin-left: 10px;
+                    color: #F7C119;
+                    width: 500px;
+                }
+              }
+                    
+                    .round{
+                        width: 50px;
+                        height: 50px;
+                        background-color: #F7C119;
+                        border-radius: 50%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        
+                        .icons{
+                            font-size: 20px;
+                            color: #000;
+                        }
+                    }
+                }
+    
+                p{
+                    width: 45%;
+                    text-align: initial;
+                    font-size: 14px;
+                    margin-top: 10px;
+                    color: #fff;
+                    font-family: 'Open Sans', sans-serif;
+                    font-weight: normal;
+                    font-style: italic;
+                }
+            }
+        }
+
+        
+    }
+}
