@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Taxi-website/static/css/main.19265103.chunk.css",
+    "main.css": "/Taxi-website/static/css/main.73822c1b.chunk.css",
     "main.js": "/Taxi-website/static/js/main.dd2db4de.chunk.js",
     "main.js.map": "/Taxi-website/static/js/main.dd2db4de.chunk.js.map",
     "runtime-main.js": "/Taxi-website/static/js/runtime-main.2b954636.js",
@@ -8,7 +8,7 @@
     "static/js/2.9237dfc8.chunk.js": "/Taxi-website/static/js/2.9237dfc8.chunk.js",
     "static/js/2.9237dfc8.chunk.js.map": "/Taxi-website/static/js/2.9237dfc8.chunk.js.map",
     "index.html": "/Taxi-website/index.html",
-    "static/css/main.19265103.chunk.css.map": "/Taxi-website/static/css/main.19265103.chunk.css.map",
+    "static/css/main.73822c1b.chunk.css.map": "/Taxi-website/static/css/main.73822c1b.chunk.css.map",
     "static/js/2.9237dfc8.chunk.js.LICENSE.txt": "/Taxi-website/static/js/2.9237dfc8.chunk.js.LICENSE.txt",
     "static/media/app-store.3cd48a49.png": "/Taxi-website/static/media/app-store.3cd48a49.png",
     "static/media/information2__.scss": "/Taxi-website/static/media/bg-car.f1e08e9a.jpeg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.2b954636.js",
     "static/js/2.9237dfc8.chunk.js",
-    "static/css/main.19265103.chunk.css",
+    "static/css/main.73822c1b.chunk.css",
     "static/js/main.dd2db4de.chunk.js"
   ]
 }
