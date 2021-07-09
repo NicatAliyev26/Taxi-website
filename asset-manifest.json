@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Taxi-website/static/css/main.19265103.chunk.css",
+    "main.js": "/Taxi-website/static/js/main.dd2db4de.chunk.js",
+    "main.js.map": "/Taxi-website/static/js/main.dd2db4de.chunk.js.map",
+    "runtime-main.js": "/Taxi-website/static/js/runtime-main.2b954636.js",
+    "runtime-main.js.map": "/Taxi-website/static/js/runtime-main.2b954636.js.map",
+    "static/js/2.9237dfc8.chunk.js": "/Taxi-website/static/js/2.9237dfc8.chunk.js",
+    "static/js/2.9237dfc8.chunk.js.map": "/Taxi-website/static/js/2.9237dfc8.chunk.js.map",
+    "index.html": "/Taxi-website/index.html",
+    "static/css/main.19265103.chunk.css.map": "/Taxi-website/static/css/main.19265103.chunk.css.map",
+    "static/js/2.9237dfc8.chunk.js.LICENSE.txt": "/Taxi-website/static/js/2.9237dfc8.chunk.js.LICENSE.txt",
+    "static/media/app-store.3cd48a49.png": "/Taxi-website/static/media/app-store.3cd48a49.png",
+    "static/media/information2__.scss": "/Taxi-website/static/media/bg-car.f1e08e9a.jpeg",
+    "static/media/comment__.scss": "/Taxi-website/static/media/bg-city.fb9c4c00.jpeg",
+    "static/media/section__.scss": "/Taxi-website/static/media/bg-taxi.05bb99f1.jpeg",
+    "static/media/business.f0db2193.png": "/Taxi-website/static/media/business.f0db2193.png",
+    "static/media/car-1.993f9371.png": "/Taxi-website/static/media/car-1.993f9371.png",
+    "static/media/driver.a9990d8e.png": "/Taxi-website/static/media/driver.a9990d8e.png",
+    "static/media/eco.da3d38e0.png": "/Taxi-website/static/media/eco.da3d38e0.png",
+    "static/media/google.460875dc.png": "/Taxi-website/static/media/google.460875dc.png",
+    "static/media/img1.94211fb8.png": "/Taxi-website/static/media/img1.94211fb8.png",
+    "static/media/img2.11565c8e.png": "/Taxi-website/static/media/img2.11565c8e.png",
+    "static/media/logo.e63136b9.png": "/Taxi-website/static/media/logo.e63136b9.png",
+    "static/media/taxi-car.6fe2abcf.png": "/Taxi-website/static/media/taxi-car.6fe2abcf.png",
+    "static/media/taxi.99e4bdf7.png": "/Taxi-website/static/media/taxi.99e4bdf7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b954636.js",
+    "static/js/2.9237dfc8.chunk.js",
+    "static/css/main.19265103.chunk.css",
+    "static/js/main.dd2db4de.chunk.js"
+  ]
+}
